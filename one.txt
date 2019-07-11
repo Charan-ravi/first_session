@@ -3,3 +3,5 @@ AGE         : 19
 GENDER      : MALE
 ROLL NO     : 2017239002
 BLOOD GROUP : O+VE
+HEIGHT      : 183 CM
+WEIGHT      : 72 KG
